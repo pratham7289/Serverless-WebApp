@@ -4,7 +4,7 @@
 
 🚀 Welcome to my Cloud Unicorn Rides project! In this hands-on venture, I ventured into the captivating world of cloud computing, constructing a Serverless Web Application using a robust stack of AWS services. This README provides an overview of the project's key components and accomplishments.
 
-## Project Highlights
+## Project Highlights are :
 
 ### 🌐 Hosted a Static Website with AWS Amplify
 Mastered the art of effortlessly hosting static web resources—HTML, CSS, JavaScript, and images—using AWS Amplify. A sleek and user-friendly interface is just a deployment away.
